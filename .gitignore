@@ -210,6 +210,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+alembic
 .installed.cfg
 *.egg
 MANIFEST
